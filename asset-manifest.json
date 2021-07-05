@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a3f8f877.chunk.css",
+    "main.css": "/portfolio/static/css/main.6961036f.chunk.css",
     "main.js": "/portfolio/static/js/main.9101d29a.chunk.js",
     "main.js.map": "/portfolio/static/js/main.9101d29a.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.8726d1d6.js",
@@ -10,8 +10,9 @@
     "static/js/3.dea355b1.chunk.js": "/portfolio/static/js/3.dea355b1.chunk.js",
     "static/js/3.dea355b1.chunk.js.map": "/portfolio/static/js/3.dea355b1.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.a3f8f877.chunk.css.map": "/portfolio/static/css/main.a3f8f877.chunk.css.map",
+    "static/css/main.6961036f.chunk.css.map": "/portfolio/static/css/main.6961036f.chunk.css.map",
     "static/js/2.b6a18170.chunk.js.LICENSE.txt": "/portfolio/static/js/2.b6a18170.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.3cd78665.ttf",
     "static/media/codeInLogo.webp": "/portfolio/static/media/codeInLogo.e41a71d5.webp",
     "static/media/cpLogo.png": "/portfolio/static/media/cpLogo.f4296945.png",
     "static/media/developerActivity.svg": "/portfolio/static/media/developerActivity.2c0445ca.svg",
@@ -28,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.8726d1d6.js",
     "static/js/2.b6a18170.chunk.js",
-    "static/css/main.a3f8f877.chunk.css",
+    "static/css/main.6961036f.chunk.css",
     "static/js/main.9101d29a.chunk.js"
   ]
 }
